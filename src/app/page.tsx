@@ -21,6 +21,14 @@ export default function Home() {
       cover: "/images/fahrenheit.jpg",
       description: "Dans un monde où les livres sont interdits et brûlés, un pompier commence à remettre en question sa société."
     }
+    ,
+    { 
+      title: "Full 45", 
+      author: "Ray Bradbury",
+      year: 1953,
+      cover: "/images/fahrenheit.jpg",
+      description: "Dans un monde où les livres sont interdits et brûlés, un pompier commence à remettre en question sa société."
+    }
   ];
 
   return (
